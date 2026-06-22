@@ -85,4 +85,4 @@ Website: https://wp.nrwone.in
 
 ## License
 
-GPL v2 or later
+GPL v2
